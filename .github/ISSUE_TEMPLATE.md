@@ -8,7 +8,7 @@ labels: "Status: Untriaged, Type: Bug"
 
 # Describe the problem
 <!--- Briefly describe the issue and the expected behavior. -->
-<!--- Also, please be aware of our [Code of Conduct](https://www.chef.io/code-of-conduct/). -->
+<!--- Also, please be aware of our [Code of Conduct](https://www.queimadiaria.com/code-of-conduct/). -->
 
 ## Software Version
 <!--- Tell us which version of this software and the Operating System you are using. -->

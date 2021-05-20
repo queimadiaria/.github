@@ -1,3 +1,3 @@
-# Contributing to Chef projects
+# Queima Labs - Contributing
 
-Please refer to the list of guideines found at https://github.com/chef/chef-oss-practices
+## [Gitlab Flow](https://queimadiaria.atlassian.net/wiki/spaces/MOB/pages/802750466/Processo+versionamento+e+deploy)

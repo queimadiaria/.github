@@ -1,1 +1,3 @@
-Please refer to the Chef Community Code of Conduct at https://www.chef.io/code-of-conduct/
+# Queima Labs - Code of Conduct
+
+## [Refer to](https://queimadiaria.atlassian.net/wiki/spaces/QD/overview)
