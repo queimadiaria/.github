@@ -1,24 +1,19 @@
-<!--- Provide a short summary of your changes in the Title above -->
-
-## Description
-<!--- Describe your changes in detail, what problems does it solve? -->
-
-## Related Issue
-<!--- If you are suggesting a new feature or change, please create an issue first -->
-<!--- Please link to the issue, discourse, or stackoverflow here: -->
-
-## Types of changes
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
-- [ ] Chore (non-breaking change that does not add functionality or fix an issue)
-
+<!--- COloque uma descrição curta no título acima. -->
+## Descrição do PR
+<!--- Descreva e detalhe o seu PR -->
+## Motivação, Contexto ou Considerações
+<!--- Qual problema esse PR resolve? -->
+## Foi testado, tem caso de teste?
+<!--- Descreva como foi testado se possível, e como testar. -->
+## Tipo de mudanças
+<!--- coloque um x  -->
+- [ ] Bug fix
+- [ ] Nova Feature
+- [ ] Breaking change
 ## Checklist:
-<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] I have read the **CONTRIBUTING** document.
-- [ ] I have run the pre-merge tests locally and they pass.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests passed.
+<!--- coloque um x  -->
+- [ ] Rodei o lint.
+- [ ] Testei as mudanças.
+- [ ] Documentei o que fiz (caso necessário).
+## Links Úteis
+<!--- Links de cards, libs documentação etc... -->
