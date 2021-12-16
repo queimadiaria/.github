@@ -1,0 +1,14 @@
+{
+  "name": "Deploy S3 Hosted to AWS",
+  "description": "This workflow should be used to deploy s3 hosted websites",
+  "iconName": "example-icon",
+  "categories": [
+    "S3",
+    "hosted",
+    "PureHTML"
+  ],
+  "filePatterns": [
+    "index.html$",
+    ".*\\.js$"
+  ]
+}
